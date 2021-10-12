@@ -39,7 +39,7 @@ then add `iMage` dependency to your target.
 <p align="center">
   <img src="Examples/Tiles.png" width="100">
   <img src="Examples/Rainbow.png" width="100">
-  <img src="Examples/Circle.png" width="100">
+  <img src="Examples/circle.png" width="100">
 </p>
 
 
